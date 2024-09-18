@@ -5,14 +5,14 @@ import maskpass
 # Books dummy data
 books_data = [
     {"book_ID":1,"book_title":"Statistic Inferential", "genre":"Education","publication_year":2021,"author":"Julian Alvarez","stock": 1,"fine_per_day":3},
-    {"book_ID":2,"book_title":"4 Sehat 5 Presiden", "genre":"Education","publication_year":2021,"author":"Julian Samosir","stock": 10,"fine_per_day":3},
-    {"book_ID":3,"book_title":"Indonesia Maju", "genre":"fiction","publication_year":2021,"author":"Satria Yuda","stock": 10,"fine_per_day":3},
+    {"book_ID":2,"book_title":"4 Sehat 5 Presiden", "genre":"Education","publication_year":2019,"author":"Julian Samosir","stock": 10,"fine_per_day":3},
+    {"book_ID":3,"book_title":"Indonesia Maju", "genre":"fiction","publication_year":2001,"author":"Satria Yuda","stock": 10,"fine_per_day":3},
     {"book_ID":4,"book_title":"Garuda in My Chest", "genre":"Education","publication_year":2021,"author":"Johny Sins","stock": 10,"fine_per_day":3},
-    {"book_ID":5,"book_title":"Bisma Adhira : The Legend of Fire", "genre":"Education","publication_year":2021,"author":"Evan Dimas Darmono","stock": 10,"fine_per_day":3},
-    {"book_ID":6,"book_title":"My SQL Introduction", "genre":"Education","publication_year":2021,"author":"Yanto Alvarez","stock": 10,"fine_per_day":3},
+    {"book_ID":5,"book_title":"Bisma Adhira : The Legend of Fire", "genre":"Education","publication_year":2024,"author":"Evan Dimas Darmono","stock": 10,"fine_per_day":3},
+    {"book_ID":6,"book_title":"My SQL Introduction", "genre":"Education","publication_year":2011,"author":"Yanto Alvarez","stock": 10,"fine_per_day":3},
     {"book_ID":7,"book_title":"Bitcoin vs Altcoin", "genre":"Education","publication_year":2021,"author":"Chairul Robert Tanjung","stock": 10,"fine_per_day":3},
-    {"book_ID":8,"book_title":"5 Cara Sukses Menjadi Biliuner by Handoko", "genre":"economy","publication_year":2021,"author":"Solikin Robert","stock": 10,"fine_per_day":3},
-    {"book_ID":9,"book_title":"5 km", "genre":"Education","publication_year":2021,"author":"Sandy Walsh","stock": 10,"fine_per_day":3},
+    {"book_ID":8,"book_title":"5 Cara Sukses Menjadi Biliuner by Handoko", "genre":"economy","publication_year":2023,"author":"Solikin Robert","stock": 10,"fine_per_day":3},
+    {"book_ID":9,"book_title":"5 km", "genre":"Education","publication_year":2017,"author":"Sandy Walsh","stock": 10,"fine_per_day":3},
     {"book_ID":10,"book_title":"Marmud Merah Maroon", "genre":"Education","publication_year":2021,"author":"Julian Alvarez","stock": 10,"fine_per_day":3}
 ]
 # Genre buku yang tersedia di perpustakaan
