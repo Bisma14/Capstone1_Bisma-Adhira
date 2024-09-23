@@ -53,5 +53,9 @@ Below listed the flowchart describing this program main features:
 ### Logout Menu
 ![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Logout%20Menu.jpg)
 
+## Limitation
+This program has some limitations, one of which is no user id to give unique borrowers. There might be some errors that i missed during debugging test. If you find some errors or anomalies, please notify me and discuss together.
+
+Thank you for visiting my repository and reading this!!
 
 
