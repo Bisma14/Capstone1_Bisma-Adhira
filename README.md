@@ -30,4 +30,28 @@ There are two dummy data inside this program
 2. Borrowers Data, which lists the user who borrowing one or more than one book in the library
 ## Flow of Program
 Below listed the flowchart describing this program main features:
+### First Menu
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/First%20Menu.jpg)
+### Login Menu
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Login%20Menu.jpg)
+### Library Menu
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Library%20Menu.jpg)
+### Add Book
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Add%20Book%20Menu.jpg)
+### Show Available Book 
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Show%20Available%20Book.jpg)
+### Update Book Stock
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Update%20Book%20Stock.jpg)
+### Delete Book
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Delete%20Book.jpg)
+### Search Book by Genre
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Search%20by%20Genre.jpg)
+### Book Borrowers List
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Show%20Borrowers.jpg)
+### Borrow or Return Book
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Borrow%20or%20Return%20Menu.jpg)
+### Logout Menu
+![image](https://github.com/Bisma14/Capstone1_Bisma-Adhira/blob/main/Flowchart/Logout%20Menu.jpg)
+
+
 
